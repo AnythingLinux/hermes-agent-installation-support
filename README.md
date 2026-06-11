@@ -35,7 +35,7 @@ Professional Hermes Agent Installation Support including production-grade setup,
 ───────────────────────────────────────────────
 ```
 
-![Hermes Agent](hermes.png)
+![Hermes Agent](web.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to Hermes Agent installation. Product names, trademarks, and service names belong to their respective owners.
