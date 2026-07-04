@@ -26,20 +26,21 @@
 
 Professional Hermes Agent Installation Support including production-grade setup, AI API integration, troubleshooting, optimization, and ongoing maintenance.
 
-## What You'll Get Support?
-- 🧠 Hermes Agent Installation Full Support
-- 🌐 Cloud & VPS server setup (DigitalOcean, AWS, etc.)
-- 🔌 Cloud AI API & local LLM integration
-- 🔐 NGINX reverse proxy configuration
-- 🔒 SSL certificate setup (HTTPS secure deployment)
-- ⚡ Performance optimization & scaling
-- 🛠️ Troubleshooting & bug fixing
-- 🔄 Maintenance & on-demand support
+## Services Included
 
-## Reach out if you need professional support
-💬 Telegram: https://t.me/AnythingLinux
+- **Installation & Setup** — Clean deployment on Linux servers (Ubuntu/CentOS/AlmaLinux)
+- **Configuration** — Environment setup, API keys, model backend integration
+- **Integration Support** — Connecting Hermes Agent to third-party platforms (Telegram, Slack, VoIP, CRMs)
+- **Reverse Proxy & SSL** — Nginx configuration with Certbot-issued SSL certificates
+- **Performance Tuning** — Resource optimization for CPU/GPU-constrained environments
+- **Troubleshooting** — Diagnosing and resolving deployment or runtime issues
+- **Maintenance** — Updates, backups, and monitoring setup
 
-📩 WhatsApp: https://wa.me/8801890757616
+## Who This Is For
+
+- Businesses running or planning to run Hermes Agent in production
+- Teams needing reliable Linux server infrastructure for AI agent deployment
+- Organizations requiring secure, scalable agent hosting
 
 ## Who Can Benefit?
 - AI Startups
