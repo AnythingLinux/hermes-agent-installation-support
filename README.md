@@ -42,6 +42,24 @@ Professional Hermes Agent Installation Support including production-grade setup,
 - Teams needing reliable Linux server infrastructure for AI agent deployment
 - Organizations requiring secure, scalable agent hosting
 
+## Deployment Architecture
+
+Typical setup includes:
+- Linux server (Ubuntu preferred)
+- Hermes Agent bound to loopback
+- Nginx reverse proxy handling public TLS
+- Systemd service management for uptime
+- Optional integrations: Telegram, webhook endpoints, VoIP platforms
+
+## Support Process
+
+1. **Consultation** — Understand your use case and infrastructure
+2. **Deployment** — Install and configure Hermes Agent on your server
+3. **Integration** — Connect required third-party platforms
+4. **Testing** — Validate functionality and performance
+5. **Handover** — Documentation and knowledge transfer
+6. **Ongoing Support** — Available for updates and troubleshooting
+
 ## Who Can Benefit?
 - AI Startups
 - SaaS Founders
@@ -51,6 +69,9 @@ Professional Hermes Agent Installation Support including production-grade setup,
 - Self-hosting enthusiasts
 - Enterprise teams
 - Businesses deploying AI assistants
+
+## Get Expert Support
+[WhatsApp](https://wa.me/8801890757616) to Start Hermes Agent Installation Support.
 
 # Hermes Agent
 
