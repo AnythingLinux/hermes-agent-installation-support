@@ -83,6 +83,6 @@ Contact [WhatsApp](https://wa.me/8801890757616) to Start Hermes Agent Installati
 ![Hermes Agent](web.png)
 
 ## Disclaimer
-This repository is intended to provide guidance, documentation, and support resources related to Hermes Agent installation. Product names, trademarks, and service names belong to their respective owners.
+This repository is intended to provide Hermes Agent installation Freelance Support. Product names, trademarks, and service names belong to [Nous Research](https://nousresearch.com/).
 
 ⭐ If this repository helps you, please consider starring it and sharing it with others.
