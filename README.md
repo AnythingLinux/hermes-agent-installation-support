@@ -6,12 +6,13 @@
 <p align="center">
   <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">Hermes Agent Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">Hermes Agent Support</a>
 </p>
-<p align="center">
+
+ <p align="center">
   <a href="https://hermes-agent.nousresearch.com/docs/">
     <img src="https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge" alt="Documentation">
   </a>
   <a href="https://t.me/AnythingLinux">
-    <img src="https://img.shields.io/badge/Telegram-AnythingLinux-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://github.com/NousResearch/hermes-agent/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
