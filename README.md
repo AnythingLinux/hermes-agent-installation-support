@@ -8,16 +8,16 @@
 </p>
 
  <p align="center">
-  <a href="https://hermes-agent.nousresearch.com/docs/" target="_new">
+  <a href="https://hermes-agent.nousresearch.com/docs/">
     <img src="https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge" alt="Documentation">
   </a>
-  <a href="https://t.me/AnythingLinux" target="_new">
+  <a href="https://t.me/AnythingLinux">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://github.com/NousResearch/hermes-agent/blob/main/LICENSE" target="_new">
+  <a href="https://github.com/NousResearch/hermes-agent/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
   </a>
-  <a href="https://nousresearch.com" target="_new">
+  <a href="https://nousresearch.com">
     <img src="https://img.shields.io/badge/Built%20by-Nous%20Research-blueviolet?style=for-the-badge" alt="Built by Nous Research">
   </a>
 </p>
