@@ -73,7 +73,7 @@ Typical setup includes:
 ## Get Expert Support
 Contact [WhatsApp](https://wa.me/8801890757616) to Start Hermes Agent Installation Support.
 
-# Hermes Agent
+# Hermes Agent Web Dashboard
 
 ```
 ───────────────────────────────────────────────
