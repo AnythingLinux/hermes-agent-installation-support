@@ -71,7 +71,7 @@ Typical setup includes:
 - Businesses deploying AI assistants
 
 ## Get Expert Support
-[WhatsApp](https://wa.me/8801890757616) to Start Hermes Agent Installation Support.
+Contact [WhatsApp](https://wa.me/8801890757616) to Start Hermes Agent Installation Support.
 
 # Hermes Agent
 
