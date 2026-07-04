@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-Get%20Live%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support">
   </a>
 
-  <a href="https://github.com/NousResearch/hermes-agent/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
-  </a>
-
   <a href="https://nousresearch.com">
     <img src="https://img.shields.io/badge/Built%20by-Nous%20Research-blueviolet?style=for-the-badge" alt="Built by Nous Research">
   </a>
