@@ -7,16 +7,19 @@
   <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Training.git/">Hermes Agent Training</a> | <a href="https://github.com/SchoolOfFreelancing/Hermes-Agent-Support.git/">Hermes Agent Support</a>
 </p>
 
- <p align="center">
-  <a href="https://hermes-agent.nousresearch.com/docs/">
-    <img src="https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge" alt="Documentation">
-  </a>
+<p align="center">
   <a href="https://t.me/AnythingLinux">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-Get%20Live%20Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support">
   </a>
+
+  <a href="https://wa.me/8801890757616">
+    <img src="https://img.shields.io/badge/WhatsApp-Get%20Live%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support">
+  </a>
+
   <a href="https://github.com/NousResearch/hermes-agent/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
   </a>
+
   <a href="https://nousresearch.com">
     <img src="https://img.shields.io/badge/Built%20by-Nous%20Research-blueviolet?style=for-the-badge" alt="Built by Nous Research">
   </a>
